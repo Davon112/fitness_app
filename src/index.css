@@ -1,0 +1,48 @@
+
+
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+:root body{
+  background-color: rgba(0, 8, 12, 0.065)
+}
+
+
+.nav-icon{
+  margin-top: 0;
+ 
+}
+
+.navbar-brand{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#basic-navbar-nav{
+  font-size: 40px;
+}
+
+h1{
+  text-align: center;
+
+}
+
+form{
+  text-align: center;
+
+  font-size: 40px;
+}
+
+:root ul{
+  list-style: none;
+  text-align: center;
+  font-size: 30px;
+  padding: 2px;
+}
